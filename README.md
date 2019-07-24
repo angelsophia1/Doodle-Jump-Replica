@@ -1,5 +1,5 @@
 # Doodle-Jump-Replica
- This is a Doodle Jump Replica created by Unity3d. 
+ This is a Doodle Jump Replica game created by Unity3d. 
  
  Following Brackeys Channel, I have created this project which is similar to the original Doodle Jump. 
  
